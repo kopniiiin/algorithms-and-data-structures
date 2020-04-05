@@ -1,0 +1,9 @@
+# Файлы редактора
+.idea
+
+# Файлы пакетов
+node_modules
+
+# Файлы сборки
+algorithms-and-data-structures.js
+algorithms-and-data-structures.js.map
