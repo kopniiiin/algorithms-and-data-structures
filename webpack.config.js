@@ -1,10 +1,8 @@
-// const path = require('path');
-
 module.exports = {
   mode: 'development',
-  entry: './algorithms-and-data-structures/script.js',
+  entry: './sources/main.js',
   output: {
-    filename: 'algorithms-and-data-structures.js',
+    filename: 'bundle.js',
     path: __dirname
   },
   devtool: 'source-map',
